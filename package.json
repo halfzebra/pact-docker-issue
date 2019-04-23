@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@pact-foundation/pact": "^8.2.0",
+    "jest": "^24.7.1"
+  }
+}
