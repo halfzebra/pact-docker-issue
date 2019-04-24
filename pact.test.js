@@ -11,7 +11,7 @@ describe('dummy pact verification', () => {
       tags: ['prod'],
       pactBrokerUsername: 'dXfltyFMgNOFZAxr8io9wJ37iUpY42M',
       pactBrokerPassword: 'O5AIZWxelWbLvqMd8PkAVycBJh2Psyg1',
-      publishVerificationResult: true,
+      publishVerificationResult: false,
       providerVersion: '1.0.0',
     }
 
